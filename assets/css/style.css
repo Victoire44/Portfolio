@@ -54,7 +54,7 @@ body {
   .container-section-logo{
   display: flex;
   justify-content: center;
-  margin-bottom: 100px;
+  margin: 25px;
   }
   
   button[type=submit]{
@@ -64,10 +64,17 @@ body {
   button[type=submit]:hover{
     background:#bbc1bc
   }
-  
+
+/* footer */
   footer{
     background: #bbc1bc;
+    padding: 20px;
   }
+  
+  .footer .container p{
+   margin: 0;
+  } 
+
   
   @media screen and (max-width: 768px) and (min-width: 639px) {
     nav {

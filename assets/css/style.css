@@ -55,11 +55,27 @@ body {
     color: white;
     text-align: center;
   }
+
   a:hover{
     color: white;
   }
-  
+
+  .github-link {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+  }
+
+.medium-logo{
+  height: 30px;
+  margin: 20px 40px;
+}
+.github-logo{
+  height: 50px;
+  margin: 20px 40px;
+}
   /* contact */
+
   .container-section-logo{
   display: flex;
   justify-content: center;

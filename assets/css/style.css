@@ -27,6 +27,15 @@ body {
   color: rgb(0, 130, 120);
   font-family: Georgia, Times, Times New Roman, serif
   }
+
+  /* index */
+  .auth-image{
+  float: left;
+  width: 200px;
+  height: auto;
+  margin-top: 10px;
+  margin-right: 25px;
+}
   
   /* portfolio */
   .caption-portfolio {
@@ -55,6 +64,11 @@ body {
   display: flex;
   justify-content: center;
   margin: 25px;
+  }
+
+  .contact-logo{
+    height: 40px;
+    margin: 20px;
   }
   
   button[type=submit]{

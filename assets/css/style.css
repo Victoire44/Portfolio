@@ -88,13 +88,8 @@ body {
   .footer .container p{
    margin: 0;
   } 
-
   
   @media screen and (max-width: 768px) and (min-width: 639px) {
-    nav {
-      margin-right: 20px;
-    }
-  
     .auth-image {
       width: 50%;
       margin-bottom: 30px;
@@ -102,7 +97,6 @@ body {
   }
   
   @media screen and (max-width: 640px) {
-  
     .auth-image {
       float: none;
       width: 100%;

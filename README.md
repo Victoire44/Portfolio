@@ -2,8 +2,8 @@
 
 ![gif](assets/images/websitegif.gif)
 
-My portfolio shows a panel of my works realised during my cooding boot camp at UC Berkeley.
-This website present 3 tabs (About me, Portfolio, Contact) allowing the user to navigate between the differentes pages. 
+My portfolio shows a panel of my works realised during my coding boot camp at UC Berkeley.
+This website presents 3 tabs (About me, Portfolio, Contact) allowing the user to navigate between the differentes pages. 
 
 ## technologies Used
 
